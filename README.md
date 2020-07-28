@@ -2,7 +2,7 @@
 This Repository contains code for my Delani studio website.
 ##### By Virsail Mbagaya
 ## Description
-This is a Personal Project that i have created a website that displays some of the awesome activities that take place in Delani Studio. Delani studio is an amazing studio that will give you the best services you'd ever wish to find.
+This is a Personal Project that i have created a website that displays some of the awesome activities that take place in Delani Studio. Delani studio is an amazing studio that will give you the best services you'd ever wish to find.Also feel free to check out my live site https://virsail.github.io/Delani-Studio/
               </div>  
 ## Setup Instructions
 * git clone https://github.com/Virsail/Delani-Studio.git
