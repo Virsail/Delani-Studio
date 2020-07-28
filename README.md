@@ -19,7 +19,7 @@ This is a Personal Project that i have created a website that displays some of t
  -You can check out the projects in the portfoluo section that have a hover effect and will display the project name but enabling the background image to be visible.
  -Feel free to reach out to us ,we have a section for you to input your email ,name and message ,you will receive a pop up notification that we have received your message.
 ## Contribution
-Incase of any contributions, feel free to do so by visiting[this link]().
+Incase of any contributions, feel free to do so by visiting[this link](https://github.com/Virsail/Delani-Studio.git).
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-Copyright (c) 2020 **mids**
+Copyright (c) 2020 @mbagaya
