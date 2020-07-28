@@ -12,7 +12,8 @@ This is a Personal Project that i have created a website that displays some of t
 * HTML
 * CSS
 * Js & Jquery
-#BDD
+
+BDD
 - Visit the Delani website 
  Check out our amazing services and about us ,the what we do part allows you to toggle between the icon and the description texts which will be seen when you click the image icon.
  -You can check out the projects in the portfolio section that have a hover effect and will display the project name but enabling the background image to be visible.
